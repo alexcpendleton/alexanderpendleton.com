@@ -1,11 +1,8 @@
 {
-  "name": "gatsby-starter-blog",
-  "description": "Starter Gatsby Blog",
+  "name": "alexanderpendleton.com",
+  "description": "Personal website of Alexander Pendleton",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby-starter-blog/issues"
-  },
+  "author": "Alexander Pendleton",
   "dependencies": {
     "gatsby": "^1.9.250",
     "gatsby-link": "^1.6.39",
@@ -24,6 +21,7 @@
     "gatsby-transformer-remark": "^1.7.40",
     "gatsby-transformer-sharp": "^1.6.22",
     "lodash": "^4.17.5",
+    "react-social-icons": "^3.0.0",
     "typeface-merriweather": "0.0.43",
     "typeface-montserrat": "0.0.43",
     "typography-theme-wordpress-2016": "^0.15.10"
@@ -34,7 +32,7 @@
     "gh-pages": "^1.1.0",
     "prettier": "^1.12.0"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://www.alexanderpendleton.com",
   "keywords": [
     "gatsby"
   ],
@@ -42,7 +40,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/alexcpendleton/alexanderpendleton.com.git"
   },
   "scripts": {
     "dev": "gatsby develop",
