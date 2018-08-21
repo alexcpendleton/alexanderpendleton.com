@@ -20,6 +20,7 @@ class Template extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
+            textAlign: 'center',
           }}
         >
           <Link
