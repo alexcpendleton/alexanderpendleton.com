@@ -1,0 +1,25 @@
+# Hello! I'm Alexander Pendleton
+I make software, mostly for the web, and I'm available for contract work. 
+
+Web sites and programming caught my interest in grade school, and I've been working professionally since 2004. I love building software that makes peoples' lives better and easier.
+
+## What I Can Do
+JavaScript and C# are my bread-and-butter, on the server-side. I'm quite comfortable on the client-side too! 
+HTML, CSS, and JavaScript have been my life-blood, through many frameworks and paradigm shifts. I have experience with many technologies, wearing many hats. Learning quickly is one of my treasured skills.
+
+- Web APIs in front of your database? You got it. 
+- React web sites? No problem. 
+- Polyglot microservices in Node, Golang, and .Net Core? Been there, done that.
+- Legacy ASP.Net apps that need some love? My pleasure.
+
+Anything else? I'm a problem solver, there's a good chance I can help. Let's chat!
+
+Github | LinkedIn | Email
+
+<contact form?></contact>
+
+Places I've worked?
+Projects I've worked on?
+
+
+http://www.garysheng.com/

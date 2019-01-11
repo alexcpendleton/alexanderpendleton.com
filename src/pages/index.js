@@ -12,12 +12,7 @@ class BlogIndex extends React.Component {
 
     return (
       <div>
-        <Helmet
-          title={siteTitle}
-          style={{
-            textAlign: 'center',
-          }}
-        />
+        <Helmet title={siteTitle} />
         <Bio />
       </div>
     )
