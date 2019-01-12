@@ -37,18 +37,35 @@ class Bio extends React.Component {
           <p>
             JavaScript and C# are my bread-and-butter, on the server-side. I'm
             quite comfortable on the client-side too! HTML, CSS, and JavaScript
-            have been my life-blood, through many frameworks and paradigm
-            shifts. I have experience with many technologies, wearing many hats.
+            have been my lifeblood, through many frameworks and paradigm shifts.
+            I have experience with many technologies, wearing many hats.
             Learning quickly is among my most useful skills.
           </p>
           <ul className="what-can-i-do-list">
-            <li>Web APIs in front of your database? You got it.</li>
-            <li>React web sites? No problem. </li>
             <li>
-              Polyglot microservices in Node, Golang, and .Net Core? Been there,
-              done that.
+              <strong className="q">Web APIs in front of your database?</strong>
+              <span className="a">
+                You got it! REST-ful, GraphQL, GRPC, even SOAP.
+              </span>
             </li>
-            <li>Legacy ASP.Net apps that need some love? My pleasure.</li>
+            <li>
+              <strong className="q">
+                An admin web site in React for your employees?
+              </strong>
+              <span className="a">No problem.</span>
+            </li>
+            <li>
+              <strong className="q">
+                Polyglot microservices in Node, Golang, and .Net Core?
+              </strong>
+              <span className="a">Been there, done that.</span>
+            </li>
+            <li>
+              <strong className="q">
+                Legacy ASP.Net apps that need some love?
+              </strong>
+              <span className="a">My pleasure.</span>
+            </li>
           </ul>
         </section>
         <section className="social">
