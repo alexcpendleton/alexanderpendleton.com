@@ -23,11 +23,11 @@ class Template extends React.Component {
       >
         <h1
           style={{
-            ...scale(1.5),
+            ...scale(1.25),
             marginTop: 0,
           }}
         >
-          Hello! I'm Alexander Pendleton
+          Hello, I'm Alexander Pendleton!
         </h1>
       </header>
     )

@@ -11,9 +11,13 @@ theme.overrideThemeStyles = () => ({
   h1: {
     fontFamily: ['Georgia', 'Cambria', 'serif'].join(','),
   },
+  // body: { // dark
+  //   background: '#313063',
+  //   color: '#dcdcaa',
+  // },
   body: {
-    background: '#313063', //'#303030',
-    color: '#dcdcaa',
+    background:
+      'url(https://www.toptal.com/designers/subtlepatterns/patterns/old_mathematics.png)',
   },
 })
 
