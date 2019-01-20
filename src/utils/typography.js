@@ -15,10 +15,6 @@ theme.overrideThemeStyles = () => ({
   //   background: '#313063',
   //   color: '#dcdcaa',
   // },
-  body: {
-    background:
-      'url(https://www.toptal.com/designers/subtlepatterns/patterns/old_mathematics.png)',
-  },
 })
 
 delete theme.googleFonts

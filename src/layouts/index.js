@@ -2,6 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 import { rhythm, scale } from '../utils/typography'
+import '../styles/global.css'
 
 class Template extends React.Component {
   render() {
