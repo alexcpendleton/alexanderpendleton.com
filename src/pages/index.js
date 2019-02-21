@@ -4,6 +4,7 @@ import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
 import Bio from '../components/Bio'
+import Footer from '../components/Footer'
 class BlogIndex extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
@@ -12,6 +13,7 @@ class BlogIndex extends React.Component {
       <div>
         <Helmet title={siteTitle} />
         <Bio />
+        <Footer />
       </div>
     )
   }

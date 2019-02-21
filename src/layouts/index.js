@@ -14,24 +14,7 @@ class Template extends React.Component {
       rootPath = __PATH_PREFIX__ + `/`
     }
 
-    header = (
-      <header
-        style={{
-          fontFamily: 'Georgia, Cambria, serif',
-          fontStyle: 'italic',
-          textAlign: 'center',
-        }}
-      >
-        <h1
-          style={{
-            ...scale(1.25),
-            marginTop: 0,
-          }}
-        >
-          Hello, I'm Alexander Pendleton!
-        </h1>
-      </header>
-    )
+    //header = null
     return (
       <div
         style={{
