@@ -19,21 +19,21 @@ class Bio extends React.Component {
       >
         <section className="bio">
           <p>
-            I make software, mostly for the web, and I'm available for contract
-            work. Let's build some software together!
+            I build software, mostly for the web, and I'm available for contract
+            work. Let's build something together!
           </p>
           <p>
             Web sites and programming caught my interest in grade school, and
-            I've been working professionally since 2004. I love building
-            software that makes peoples' lives better and easier.
+            I've been working professionally since 2004. It's my pleasure to
+            write programs that improve businesses and lives.
           </p>
         </section>
         <section className="what-can-i-do">
           <h2>What I Can Do</h2>
           <p>
-            JavaScript and C# are my bread-and-butter, on the server-side. I'm
+            JavaScript and C# are my bread-and-butter on the server-side. I'm
             quite comfortable on the client-side too! HTML, CSS, and JavaScript
-            have been my lifeblood, through many frameworks and paradigm shifts.
+            have been my lifeblood through many frameworks and paradigm shifts.
             I have experience with many technologies, wearing many hats.
             Learning quickly is among my most useful skills.
           </p>
@@ -60,7 +60,7 @@ class Bio extends React.Component {
               <strong className="q">
                 Legacy ASP.Net apps that need some love?
               </strong>
-              <div className="a">My pleasure.</div>
+              <div className="a">It's in good hands.</div>
             </li>
           </ul>
         </section>
